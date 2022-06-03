@@ -8,8 +8,6 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: GitHub
-   url: https://github.com/jefersonmombach
  - title: LinkedIn
    url: https://www.linkedin.com/in/jeferson-mombach-de-sousa/
 
